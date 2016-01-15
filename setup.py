@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='SexMachine',
-    version='0.1.1',
+    version='0.1.2',
     author='Ferhat Elmas',
     author_email='elmas.ferhat@gmail.com',
     packages=['sexmachine', 'sexmachine.test'],
